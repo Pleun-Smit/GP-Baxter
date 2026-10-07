@@ -4,31 +4,28 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: 
     - title: News
       url: /news
+    - title: Lab notes
+      url: /lab_notes_home.html
+    - title: FAQ
+      url: /FAQ_landing_page.html
+
+
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Documentation
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Products
-      folderitems:
-        - title: Jekyll Documentation Theme
+        - title: Baxter documentation
           url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Setup XDRIVE MINI 
+          url: /setup/
+        - title: Issues
+          url: /issues_landing_page.html
+        
 
 # Copyright 2021 Google LLC

@@ -1,0 +1,105 @@
+---
+title: Lab Notes
+sidebar: mydoc
+keywords: lab notes, experimenten, ontwikkeling, robotica, testen
+permalink: /lab_notes_home.html
+toc: false
+folder: lab-notes
+---
+
+<div class="home">
+
+
+<div class="page-header">
+    <h1>Lab Notes</h1>
+    <p class="lead">
+        Technische notities, experimenten en ontdekkingen tijdens de ontwikkeling van Baxter.
+    </p>
+</div>
+
+<hr />
+
+<h2>Wat zijn Lab Notes?</h2>
+
+<p>
+    Lab Notes zijn mijn technische werknotities voor het Baxter-project.
+    Hier houd ik experimenten, metingen, configuraties, problemen en
+    ontdekkingen bij die ik tijdens de ontwikkeling tegenkom.
+</p>
+
+<p>
+    In tegenstelling tot de documentatie zijn deze notities niet
+    noodzakelijk compleet of netjes uitgewerkt. Ze zijn vooral bedoeld
+    als naslagwerk voor mezelf en als een overzicht van het
+    ontwikkelproces.
+</p>
+
+<h2>Wat vind je hier?</h2>
+
+<ul>
+    <li>Experimenten en tests</li>
+    <li>Metingen aan motoren en controllers</li>
+    <li>Hardware-experimenten</li>
+    <li>Software- en configuratienotities</li>
+    <li>Problemen en mogelijke oplossingen</li>
+    <li>Dingen die niet werkten</li>
+    <li>Tijdelijke configuraties</li>
+    <li>Ideeën voor toekomstige experimenten</li>
+</ul>
+
+<h2>Recente Lab Notes</h2>
+
+<div class="post-list">
+
+    {% assign lab_notes = site.posts | where: "category", "lab-notes" %}
+
+    {% for post in lab_notes limit:10 %}
+
+        <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title }}
+            </a>
+        </h3>
+
+        <span class="post-meta">
+            {{ post.date | date: "%-d %B %Y" }}
+        </span>
+
+        {% if post.summary %}
+            <p>
+                {{ post.summary | strip_html | strip_newlines | truncate: 180 }}
+            </p>
+        {% endif %}
+
+    {% else %}
+
+        <p>
+            Er zijn nog geen Lab Notes gepubliceerd.
+        </p>
+
+    {% endfor %}
+
+</div>
+
+<hr />
+
+<h2>Lab Notes vs. Documentatie</h2>
+
+<p>
+    Lab Notes beschrijven het ontwikkelproces: experimenten, metingen,
+    problemen en ontdekkingen. De
+    <a href="{{ '/documentation.html' | relative_url }}">documentatie</a>
+    bevat informatie die bedoeld is om anderen te helpen het project
+    te begrijpen, te gebruiken of na te bouwen.
+</p>
+
+<p>
+    Een resultaat dat hier begint als experiment kan later onderdeel
+    worden van de officiële documentatie wanneer het voldoende getest
+    en betrouwbaar is gebleken.
+</p>
+
+{% include links.html %}
+
+
+</div>

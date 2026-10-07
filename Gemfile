@@ -1,7 +1,11 @@
 source "https://rubygems.org"
 
-# to publish on github page
-gem 'github-pages', group: :jekyll_plugins
-
-# to publich without github page
-#gem "jekyll"
+gem "jekyll", "~> 4.3"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "liquid", ">= 4.0.4"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-theme-primer"

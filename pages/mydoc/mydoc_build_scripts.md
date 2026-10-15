@@ -10,6 +10,7 @@ weight: 10
 sidebar: mydoc_sidebar
 permalink: mydoc_build_scripts.html
 folder: mydoc
+published: false
 ---
 
 {% include custom/getting_started_series.html %}

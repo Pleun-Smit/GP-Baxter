@@ -7,6 +7,7 @@ summary: "Collections are useful if you want to loop through a special folder of
 sidebar: mydoc_sidebar
 permalink: mydoc_collections.html
 folder: mydoc
+published: false
 ---
 
 ## What are collections

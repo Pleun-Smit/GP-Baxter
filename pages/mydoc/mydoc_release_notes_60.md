@@ -7,6 +7,7 @@ summary: "Version 6.0 of the Documentation theme for Jekyll, released July 4, 20
 sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_60.html
 folder: mydoc
+published: false
 ---
 
 ## Relative links

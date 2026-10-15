@@ -7,6 +7,7 @@ summary: "You can implement advanced conditional logic that includes if statemen
 sidebar: mydoc_sidebar
 permalink: mydoc_conditional_logic.html
 folder: mydoc
+published: false
 ---
 
 ## About Liquid and conditional statements

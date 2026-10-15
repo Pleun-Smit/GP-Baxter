@@ -7,6 +7,7 @@ summary: "Store images in the images folder and use the image.html include to in
 sidebar: mydoc_sidebar
 permalink: mydoc_images.html
 folder: mydoc
+published: false
 ---
 
 ## Image Include Template

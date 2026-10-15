@@ -8,6 +8,7 @@ summary: "You can format tables using either multimarkdown syntax or HTML. You c
 sidebar: mydoc_sidebar
 permalink: mydoc_tables.html
 folder: mydoc
+published: false
 ---
 
 ## Multimarkdown Tables

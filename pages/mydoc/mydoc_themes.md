@@ -7,6 +7,7 @@ summary: "You can choose between two different themes (one green, the other blue
 sidebar: mydoc_sidebar
 permalink: mydoc_themes.html
 folder: mydoc
+published: false
 ---
 
 {% include note.html content="The [gem-based theme](https://jekyllrb.com/docs/themes/) approach is not yet integrated into this theme." %}

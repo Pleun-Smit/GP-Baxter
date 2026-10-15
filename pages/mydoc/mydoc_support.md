@@ -8,6 +8,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_support.html
 folder: mydoc
 topnav: topnav
+published: false
 ---
 
 I'm not actively working on this theme. However, feel free to click **Feedback** on the top navbar to send me an email or open an issue on [GitHub](https://github.com/tomjoht/documentation-theme-jekyll/issues).

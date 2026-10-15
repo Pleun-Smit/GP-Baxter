@@ -7,6 +7,7 @@ summary: "You can add tooltips to any word, such as an acronym or specialized te
 sidebar: mydoc_sidebar
 permalink: mydoc_adding_tooltips.html
 folder: mydoc
+published: false
 ---
 
 ## Creating tooltips

@@ -7,6 +7,7 @@ summary: "Version 5.0 of the Documentation theme for Jekyll changes some fundame
 sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_50.html
 folder: mydoc
+published: false
 ---
 
 ## Unique sidebars for each product

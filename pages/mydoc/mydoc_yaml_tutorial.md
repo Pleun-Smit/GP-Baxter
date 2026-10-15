@@ -6,6 +6,7 @@ summary: "YAML is a format that relies on white spacing to separate out the vari
 sidebar: mydoc_sidebar
 permalink: mydoc_yaml_tutorial.html
 folder: mydoc
+published: false
 ---
 
 <style>

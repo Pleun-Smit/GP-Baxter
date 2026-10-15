@@ -8,6 +8,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_kb_layout.html
 toc: false
 folder: mydoc
+published: false
 ---
 
 Here's the sample knowledge-base style layout:

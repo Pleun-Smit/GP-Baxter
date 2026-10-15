@@ -8,6 +8,7 @@ last_updated: July 3, 2016
 sidebar: mydoc_sidebar
 permalink: mydoc_hyperlinks.html
 folder: mydoc
+published: false
 ---
 
 ## Create an external link

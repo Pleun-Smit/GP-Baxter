@@ -7,6 +7,7 @@ summary: "You can loop through files and generate a JSON file that developers ca
 sidebar: mydoc_sidebar
 permalink: mydoc_help_api.html
 folder: mydoc
+published: false
 ---
 
 ## Full code demo of content API

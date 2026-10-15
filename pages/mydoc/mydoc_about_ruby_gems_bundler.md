@@ -6,6 +6,7 @@ summary: "Ruby is a programming language you must have on your computer in order
 sidebar: mydoc_sidebar
 permalink: mydoc_about_ruby_gems_etc.html
 folder: mydoc
+published: false
 ---
 
 ## About Ruby

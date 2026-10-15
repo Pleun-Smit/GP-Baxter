@@ -6,6 +6,7 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
+
 ---
 
 # Over mij

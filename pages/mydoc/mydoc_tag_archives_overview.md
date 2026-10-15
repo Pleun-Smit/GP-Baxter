@@ -7,6 +7,7 @@ summary: "This is an overview to the tag archives section. Really the only reaso
 sidebar: mydoc_sidebar
 permalink: mydoc_tag_archives_overview.html
 folder: mydoc
+published: false
 ---
 
 ## Reasons for tags

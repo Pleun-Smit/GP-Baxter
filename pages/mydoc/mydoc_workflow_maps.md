@@ -7,6 +7,7 @@ summary: "Version 6.0 of the Documentation theme for Jekyll reverts back to rela
 sidebar: mydoc_sidebar
 permalink: mydoc_workflow_maps.html
 folder: mydoc
+published: false
 ---
 
 ## Workflow maps overview

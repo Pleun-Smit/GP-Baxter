@@ -7,6 +7,7 @@ summary: "The search feature uses JavaScript to look for keyword matches in a JS
 sidebar: mydoc_sidebar
 permalink: mydoc_search_configuration.html
 folder: mydoc
+published: false
 ---
 
 ## About search

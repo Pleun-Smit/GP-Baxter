@@ -7,6 +7,7 @@ summary: "You can apply syntax highlighting to your code. This theme uses pygmen
 sidebar: mydoc_sidebar
 permalink: mydoc_syntax_highlighting.html
 folder: mydoc
+published: false
 ---
 
 ## About syntax highlighting

@@ -7,6 +7,7 @@ summary: "The sidebar navigation uses a jQuery component called Navgoco. The sid
 sidebar: mydoc_sidebar
 permalink: mydoc_sidebar_navigation.html
 folder: mydoc
+published: false
 ---
 
 ## Navgoco foundation

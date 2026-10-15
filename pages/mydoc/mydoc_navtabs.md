@@ -7,6 +7,7 @@ summary: "Navtabs provide a tab-based navagation directly in your content, allow
 sidebar: mydoc_sidebar
 permalink: mydoc_navtabs.html
 folder: mydoc
+published: false
 ---
 
 

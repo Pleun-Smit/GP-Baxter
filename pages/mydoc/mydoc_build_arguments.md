@@ -7,6 +7,7 @@ summary: "You use various build arguments with your Jekyll project. You can also
 sidebar: mydoc_sidebar
 permalink: mydoc_build_arguments.html
 folder: mydoc
+published: false
 ---
 
 ## How to build Jekyll sites

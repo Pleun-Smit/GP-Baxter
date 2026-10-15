@@ -7,6 +7,7 @@ summary: "You can reuse chunks of content by storing these files in the includes
 sidebar: mydoc_sidebar
 permalink: mydoc_content_reuse.html
 folder: mydoc
+published: false
 ---
 
 ## About content reuse

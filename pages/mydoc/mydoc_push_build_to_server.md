@@ -7,6 +7,7 @@ summary: "You can push your build to AWS using commands from the command line. B
 sidebar: mydoc_sidebar
 permalink: mydoc_push_build_to_server.html
 folder: mydoc
+published: false
 ---
 
 

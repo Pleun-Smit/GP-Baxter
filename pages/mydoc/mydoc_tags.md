@@ -8,6 +8,7 @@ summary: "Tags provide another means of navigation for your content. Unlike the 
 sidebar: mydoc_sidebar
 permalink: mydoc_tags.html
 folder: mydoc
+published: false
 ---
 
 ## Add a tag to a page

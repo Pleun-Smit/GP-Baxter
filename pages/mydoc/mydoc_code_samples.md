@@ -8,6 +8,7 @@ summary: "You can use fenced code blocks with the language specified after the f
 sidebar: mydoc_sidebar
 permalink: mydoc_code_samples.html
 folder: mydoc
+published: false
 ---
 
 ## Code Samples

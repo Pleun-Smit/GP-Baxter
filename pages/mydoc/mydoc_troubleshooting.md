@@ -7,6 +7,7 @@ summary: "This page lists common errors and the steps needed to troubleshoot the
 sidebar: mydoc_sidebar
 permalink: mydoc_troubleshooting.html
 folder: mydoc
+published: false
 ---
 
 ## Issues building the site

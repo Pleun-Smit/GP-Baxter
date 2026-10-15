@@ -7,6 +7,7 @@ summary: "You can set up profiles in iTerm to facilitate the build process with 
 sidebar: mydoc_sidebar
 permalink: mydoc_iterm_profiles.html
 folder: mydoc
+published: false
 ---
 
 ## About iTerm profiles

@@ -8,6 +8,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_glossary.html
 toc: false
 folder: mydoc
+published: false
 ---
 
 

@@ -7,6 +7,7 @@ summary: "You can automatically link together topics belonging to the same serie
 sidebar: mydoc_sidebar
 permalink: mydoc_series.html
 folder: mydoc
+published: false
 ---
 
 ## Using series for pages

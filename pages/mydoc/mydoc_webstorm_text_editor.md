@@ -6,6 +6,7 @@ summary: "You can use a variety of text editors when working with a Jekyll proje
 sidebar: mydoc_sidebar
 permalink: mydoc_webstorm_text_editor.html
 folder: mydoc
+published: false
 ---
 
 ## About text editors and WebStorm

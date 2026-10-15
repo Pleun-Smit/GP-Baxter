@@ -7,6 +7,7 @@ summary: "By default, all the files in your Jekyll project are included in the o
 sidebar: mydoc_sidebar
 permalink: mydoc_exluding_files.html
 folder: mydoc
+published: false
 ---
 
 

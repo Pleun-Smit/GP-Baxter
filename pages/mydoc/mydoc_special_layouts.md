@@ -7,6 +7,7 @@ summary: "This theme has a few special layouts. Special layouts include the JS f
 sidebar: mydoc_sidebar
 permalink: mydoc_special_layouts.html
 folder: mydoc
+published: false
 ---
 
 

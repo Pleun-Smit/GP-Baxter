@@ -7,6 +7,7 @@ summary: "This theme primarily uses pages. You need to make sure your pages have
 sidebar: mydoc_sidebar
 permalink: mydoc_pages.html
 folder: mydoc
+published: false
 ---
 
 ## Where to author content

@@ -13,8 +13,7 @@ In de [vorige post](bewegend-gewricht.html) kreeg ik de rechterschouder (**S0**)
 
 ## Video: de echte arm en RViz naast elkaar
 
-<!-- Vervang VIDEO_ID door het ID van je YouTube-video -->
-<iframe width="1344" height="756" src="https://www.youtube.com/embed/VIDEO_ID" title="Baxter S0 beweegt, ook in RViz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="463" height="823" src="https://www.youtube.com/embed/fIPxEU-3iWM" title="Beweging S0 met RViz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > **Video:** de rechterschouder van Baxter beweegt, en het model in RViz beweegt mee.
 

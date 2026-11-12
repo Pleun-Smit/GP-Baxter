@@ -24,8 +24,7 @@ Daarvoor heb ik de CAN-code omgebouwd tot een hardware-interface. In `baxter_arm
 
 ## Video van het bewegende gewricht
 
-<!-- Vervang VIDEO_ID door het ID van je YouTube-video -->
-<iframe width="1344" height="756" src="https://www.youtube.com/embed/VIDEO_ID" title="Baxter S0 beweegt via ros2_control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="463" height="823" src="https://www.youtube.com/embed/jDIuxBRL4OQ" title="Gewricht S0 beweegt!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > **Video:** de rechterschouder (S0) van Baxter beweegt voor het eerst via ros2_control.
 

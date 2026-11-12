@@ -13,7 +13,7 @@ Op **05/10/2026** kwamen de nieuwe **MKS XDRIVE MINI** motorcontrollerborden bin
 
 Dat bleek iets meer uitzoekwerk te zijn dan verwacht.
 
-## Van losse draden naar een draaiende motor
+## Van losse draden naar een draaiende motor 
 
 Na het aansluiten en solderen van de motor begon het echte experimenteren. Er is namelijk maar weinig documentatie beschikbaar over de gebruikte motoren. Zaken zoals het aantal *pole pairs*, de encoderinstellingen en de juiste instellingen voor de hall-sensoren moest ik daarom zelf achterhalen.
 
